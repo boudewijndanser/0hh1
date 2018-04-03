@@ -1,0 +1,10 @@
+import board from './board'
+import sidebar from './sidebar'
+import locked from './locked'
+// src/reducers/index.js
+
+export default {
+  board,
+  sidebar,
+  locked
+}
